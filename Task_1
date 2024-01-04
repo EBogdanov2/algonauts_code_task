@@ -1,0 +1,7 @@
+I have an NLP project that is the most relevant to the question. I didn't havem uch time for this so I will keep it succinct.
+
+https://ebogdanov2.github.io/elt-pipeline/ is the location for this procet where I wanted to do some sentiment analysis based on social media opinions of stocks. I scrapped a number of subreddits for information on posts and comments related to a basket of stocks.
+
+I then went and constructed a MongoDB database to house all of the scrapped data. My main aims for the project were to create a sentiment analysis based on the vectorization of the comment or post to construct a negative or positive sentiment for a stock.
+
+The plan was to monitor the changes in the sentiment over a period of time to see how it fluctuates day to day. I never got dfar enough to test our the sentiment analysis, but this was a brief overview of what I had done. 
